@@ -1,0 +1,6 @@
+@EtqanProject_HostAddress = http://localhost:5286
+
+GET {{EtqanProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Domain/">
+    <Project Path="Mediator.CQRS.Core/Mediator.CQRS.Core.csproj" />
+    <Project Path="Mediator.CQRS.Services/Mediator.CQRS.Services.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Mediator.CQRS.Infrastructutre/Mediator.CQRS.Infrastructutre.csproj" />
+    <Project Path="Mediator.CQRS.Shared/Mediator.CQRS.Shared.csproj" />
+  </Folder>
+  <Folder Name="/Presention/">
+    <Project Path="EtqanProject/EtqanProject.csproj" />
+    <Project Path="Mediator.CQRS.Application/Mediator.CQRS.Application.csproj" />
+  </Folder>
+</Solution>
