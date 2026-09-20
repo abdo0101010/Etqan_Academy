@@ -1,0 +1,13 @@
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Infrastructure\Mediator.CQRS.Shared\bin\Debug\net10.0\Mediator.CQRS.Shared.deps.json
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Infrastructure\Mediator.CQRS.Shared\bin\Debug\net10.0\Mediator.CQRS.Shared.dll
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Infrastructure\Mediator.CQRS.Shared\bin\Debug\net10.0\Mediator.CQRS.Shared.pdb
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Infrastructure\Mediator.CQRS.Shared\obj\Debug\net10.0\Mediator.CQRS.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Infrastructure\Mediator.CQRS.Shared\obj\Debug\net10.0\Mediator.CQRS.Shared.AssemblyInfoInputs.cache
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Infrastructure\Mediator.CQRS.Shared\obj\Debug\net10.0\Mediator.CQRS.Shared.AssemblyInfo.cs
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Infrastructure\Mediator.CQRS.Shared\obj\Debug\net10.0\Mediator.CQRS.Shared.csproj.CoreCompileInputs.cache
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Infrastructure\Mediator.CQRS.Shared\obj\Debug\net10.0\Mediator.CQRS.Shared.sourcelink.json
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Infrastructure\Mediator.CQRS.Shared\obj\Debug\net10.0\Mediator.CQRS.Shared.dll
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Infrastructure\Mediator.CQRS.Shared\obj\Debug\net10.0\refint\Mediator.CQRS.Shared.dll
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Infrastructure\Mediator.CQRS.Shared\obj\Debug\net10.0\Mediator.CQRS.Shared.pdb
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Infrastructure\Mediator.CQRS.Shared\obj\Debug\net10.0\ref\Mediator.CQRS.Shared.dll
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Infrastructure\Mediator.CQRS.Shared\obj\Debug\net10.0\Mediator.99D4917A.Up2Date

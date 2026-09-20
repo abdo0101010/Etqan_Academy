@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AbdoA\\source\\repos\\EtqanProject\\Etqan_Academy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F32E6B-D595-1CF9-527D-9235E005ECC9}|Domain\\Mediator.CQRS.Services\\Mediator.CQRS.Services.csproj|c:\\users\\abdoa\\source\\repos\\etqanproject\\etqan_academy\\domain\\mediator.cqrs.services\\mediator.cqrs.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8F32E6B-D595-1CF9-527D-9235E005ECC9}|Domain\\Mediator.CQRS.Services\\Mediator.CQRS.Services.csproj|solutionrelative:domain\\mediator.cqrs.services\\mediator.cqrs.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mediator.CQRS.Services",
+              "DocumentMoniker": "C:\\Users\\AbdoA\\source\\repos\\EtqanProject\\Etqan_Academy\\Domain\\Mediator.CQRS.Services\\Mediator.CQRS.Services.csproj",
+              "RelativeDocumentMoniker": "Domain\\Mediator.CQRS.Services\\Mediator.CQRS.Services.csproj",
+              "ToolTip": "C:\\Users\\AbdoA\\source\\repos\\EtqanProject\\Etqan_Academy\\Domain\\Mediator.CQRS.Services\\Mediator.CQRS.Services.csproj",
+              "RelativeToolTip": "Domain\\Mediator.CQRS.Services\\Mediator.CQRS.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-20T00:02:55.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

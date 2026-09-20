@@ -1,0 +1,13 @@
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Infrastructure\Mediator.CQRS.Infrastructutre\bin\Debug\net10.0\Mediator.CQRS.Infrastructutre.deps.json
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Infrastructure\Mediator.CQRS.Infrastructutre\bin\Debug\net10.0\Mediator.CQRS.Infrastructutre.dll
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Infrastructure\Mediator.CQRS.Infrastructutre\bin\Debug\net10.0\Mediator.CQRS.Infrastructutre.pdb
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Infrastructure\Mediator.CQRS.Infrastructutre\obj\Debug\net10.0\Mediator.CQRS.Infrastructutre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Infrastructure\Mediator.CQRS.Infrastructutre\obj\Debug\net10.0\Mediator.CQRS.Infrastructutre.AssemblyInfoInputs.cache
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Infrastructure\Mediator.CQRS.Infrastructutre\obj\Debug\net10.0\Mediator.CQRS.Infrastructutre.AssemblyInfo.cs
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Infrastructure\Mediator.CQRS.Infrastructutre\obj\Debug\net10.0\Mediator.CQRS.Infrastructutre.csproj.CoreCompileInputs.cache
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Infrastructure\Mediator.CQRS.Infrastructutre\obj\Debug\net10.0\Mediator.CQRS.Infrastructutre.sourcelink.json
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Infrastructure\Mediator.CQRS.Infrastructutre\obj\Debug\net10.0\Mediator.CQRS.Infrastructutre.dll
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Infrastructure\Mediator.CQRS.Infrastructutre\obj\Debug\net10.0\refint\Mediator.CQRS.Infrastructutre.dll
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Infrastructure\Mediator.CQRS.Infrastructutre\obj\Debug\net10.0\Mediator.CQRS.Infrastructutre.pdb
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Infrastructure\Mediator.CQRS.Infrastructutre\obj\Debug\net10.0\ref\Mediator.CQRS.Infrastructutre.dll
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Infrastructure\Mediator.CQRS.Infrastructutre\obj\Debug\net10.0\Mediator.35AAF405.Up2Date

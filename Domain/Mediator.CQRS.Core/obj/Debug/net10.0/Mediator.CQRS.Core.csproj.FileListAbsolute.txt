@@ -1,0 +1,16 @@
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Domain\Mediator.CQRS.Core\bin\Debug\net10.0\Mediator.CQRS.Core.deps.json
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Domain\Mediator.CQRS.Core\bin\Debug\net10.0\Mediator.CQRS.Core.dll
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Domain\Mediator.CQRS.Core\bin\Debug\net10.0\Mediator.CQRS.Core.pdb
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Domain\Mediator.CQRS.Core\bin\Debug\net10.0\Mediator.CQRS.Shared.dll
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Domain\Mediator.CQRS.Core\bin\Debug\net10.0\Mediator.CQRS.Shared.pdb
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Domain\Mediator.CQRS.Core\obj\Debug\net10.0\Mediator.CQRS.Core.csproj.AssemblyReference.cache
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Domain\Mediator.CQRS.Core\obj\Debug\net10.0\Mediator.CQRS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Domain\Mediator.CQRS.Core\obj\Debug\net10.0\Mediator.CQRS.Core.AssemblyInfoInputs.cache
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Domain\Mediator.CQRS.Core\obj\Debug\net10.0\Mediator.CQRS.Core.AssemblyInfo.cs
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Domain\Mediator.CQRS.Core\obj\Debug\net10.0\Mediator.CQRS.Core.csproj.CoreCompileInputs.cache
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Domain\Mediator.CQRS.Core\obj\Debug\net10.0\Mediator.CQRS.Core.sourcelink.json
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Domain\Mediator.CQRS.Core\obj\Debug\net10.0\Mediator.D8878904.Up2Date
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Domain\Mediator.CQRS.Core\obj\Debug\net10.0\Mediator.CQRS.Core.dll
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Domain\Mediator.CQRS.Core\obj\Debug\net10.0\refint\Mediator.CQRS.Core.dll
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Domain\Mediator.CQRS.Core\obj\Debug\net10.0\Mediator.CQRS.Core.pdb
+C:\Users\AbdoA\source\repos\EtqanProject\Etqan_Academy\Domain\Mediator.CQRS.Core\obj\Debug\net10.0\ref\Mediator.CQRS.Core.dll
